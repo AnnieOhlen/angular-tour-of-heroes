@@ -1,6 +1,7 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.\
+The project was created in order to follow the tutorial at https://angular.io/tutorial/tour-of-heroes which I recommend to beginners.
 
 ## Tour of Heroes
 * Added the necessary dependencies to use HTTP in the application
