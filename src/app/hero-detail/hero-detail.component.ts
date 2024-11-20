@@ -6,15 +6,14 @@ import { ActivatedRoute } from '@angular/router';
 import { HeroService } from '../hero.service';
 
 @Component({
-  selector: 'app-hero-detail',
-  templateUrl: './hero-detail.component.html',
-  styleUrl: './hero-detail.component.scss',
-  standalone: true,
-  imports: [
-    FormsModule,
-    NgIf,
-    UpperCasePipe,
-  ],
+    selector: 'app-hero-detail',
+    templateUrl: './hero-detail.component.html',
+    styleUrl: './hero-detail.component.scss',
+    imports: [
+        FormsModule,
+        NgIf,
+        UpperCasePipe,
+    ]
 })
 export class HeroDetailComponent {
   @Input() hero?: Hero;

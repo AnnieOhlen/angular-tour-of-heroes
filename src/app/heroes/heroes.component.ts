@@ -7,18 +7,17 @@ import { HeroService } from '../hero.service';
 import { RouterLink } from '@angular/router';
 
 @Component({
-  selector: 'app-heroes',
-  templateUrl: './heroes.component.html',
-  styleUrl: './heroes.component.scss',
-  standalone: true,
-  imports: [
-    FormsModule,
-    NgIf,
-    NgFor,
-    UpperCasePipe,
-    HeroDetailComponent,
-    RouterLink
-  ],
+    selector: 'app-heroes',
+    templateUrl: './heroes.component.html',
+    styleUrl: './heroes.component.scss',
+    imports: [
+        FormsModule,
+        NgIf,
+        NgFor,
+        UpperCasePipe,
+        HeroDetailComponent,
+        RouterLink
+    ]
 })
 export class HeroesComponent {
   heroes: Hero[] = [];
