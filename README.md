@@ -1,7 +1,7 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7, and has since been updated.\
-The project was created in order to follow the tutorial at https://angular.io/tutorial/tour-of-heroes which I recommend to beginners.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7, and has since been updated to later versions.\
+The project was created when following the tutorial at https://angular.io/tutorial/tour-of-heroes, which I recommend to beginners.
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AnnieOhlen_angular-tour-of-heroes&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AnnieOhlen_angular-tour-of-heroes)
 

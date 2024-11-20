@@ -9,10 +9,10 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 })
 export class HeroService {
 
-  constructor(private messageService: MessageService,
-    private http: HttpClient) { }
+  constructor(private readonly messageService: MessageService,
+    private readonly http: HttpClient) { }
 
-    private heroesUrl = 'api/heroes';
+    private readonly heroesUrl = 'api/heroes';
 
   httpOptions = {
     headers: new HttpHeaders({'Content-Type': 'application/json'})
