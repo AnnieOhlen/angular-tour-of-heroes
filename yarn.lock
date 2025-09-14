@@ -231,10 +231,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/platform-server@^19.0.0":
-  version "19.0.0"
-  resolved "https://registry.yarnpkg.com/@angular/platform-server/-/platform-server-19.0.0.tgz#03e0d83c5bf6f048308169de8fcfc9195ffa2ea7"
-  integrity sha512-eQ+mT2DvIp+tQO268WJQ5CO9nB+jcXNYqUzEfAqAhUNnpxCn3j6d8GNjx16GOVkHVBrVJvW32WPBCG4fzoi0sQ==
+"@angular/platform-server@^20.3.0":
+  version "20.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/platform-server/-/platform-server-20.3.0.tgz#88858957eafea938e412c06dd41550df128f11b0"
+  integrity sha512-ixPyu3JEY3sgyvUdCqRbaZZA9M6KWGLZoiJPN4IszwcwCFUp3E5XOZ7mvSLzR+ZUYUml+z6ehtSPg2PM+e+CEQ==
   dependencies:
     tslib "^2.3.0"
     xhr2 "^0.2.0"
@@ -246,10 +246,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/ssr@^19.0.0":
-  version "19.0.0"
-  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-19.0.0.tgz#d3e5e1165237b73fcc53efd6ae4df02c8232bee0"
-  integrity sha512-gzGDhLTlfVZFdoXl1NGRViLE7F9UPsBOVIE7PE3TlY/+/dHNJlIb9UrVGe0iI+sbLlPC8csGUE1040PSzs6+3g==
+"@angular/ssr@^20.3.0":
+  version "20.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-20.3.0.tgz#30d6a135e9460dc31a79a5972a2fe4563a1fe614"
+  integrity sha512-vVe3xfikXRUpQvrYf2egB+oH6DRvmeEIS7mVwyGSLBkBD2UHDIrNEExGQL0TpDOzq1yff6bvNtK6COrIhsDRpg==
   dependencies:
     tslib "^2.3.0"
 
