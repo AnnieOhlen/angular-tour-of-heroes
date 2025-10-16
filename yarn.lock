@@ -303,10 +303,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/ssr@^20.3.0":
-  version "20.3.2"
-  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-20.3.2.tgz#7f15c6f1d6403420449f927d495a24979bca004e"
-  integrity sha512-IMSl4wUM1297HmAB+iT72hbku3mP7uswV/EoE87oK7txvQExSNEFtO/8NJbgBrdFOLhG0JH+axqfwZo1vfBJAA==
+"@angular/ssr@^20.3.6":
+  version "20.3.6"
+  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-20.3.6.tgz#cff33e5ec45e8bd951bfa9f83012dce65c4da2cf"
+  integrity sha512-YABzCGfjwQ+WSUuInwBGS35pNO2zUHJeCzyj6CZ0sqRVR0qt3KvEzk1RVvR33X1bKePFHurn8NYPkcvLSpBvhQ==
   dependencies:
     tslib "^2.3.0"
 
